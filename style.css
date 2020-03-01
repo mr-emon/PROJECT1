@@ -1,0 +1,87 @@
+body{
+    margin: 0px;
+}
+.background{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+.halfwidth{
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+}
+}
+h1{
+    color: salmon;
+}
+h2{
+    color: salmon;
+}
+span{
+    color: purple;
+}
+
+p{
+    color: rgb(42, 59, 59);
+}
+
+.linkid{
+    
+    text-decoration:none;
+    padding: 10px 10px;
+    margin-left: 0px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, violet, red);
+
+}
+.halfwidth img{
+    width: 100%;
+}
+#large{
+    color: cyan;
+
+}
+section{
+    height: 500px;
+}
+   .background1{
+       background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 50px;
+   } 
+   .background2{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+   }
+   
+       
+   .halfwidth1{
+       width: 40%;
+       float: left;
+       margin-left: 70px;
+       box-shadow:10px 10px 40px gray ;
+       border-radius: 10px;
+       background-color: white;
+       padding-left: 10px;
+       padding-right: 10px; border-left: 7px solid;
+       border-image: linear-gradient(180deg,lightsalmon,tomato);
+       border-image-slice:1;
+   }
+   #experience{
+       font-size: 50px;
+       font-weight: 700;
+       text-align: left;
+       margin-left: 5%;
+   }
+   #cricket{
+       border-left: 7px solid;
+       border-image: linear-gradient(180deg,lightsalmon,tomato);
+       border-image-slice:1;
+   }
+   #cook{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice:1;
